@@ -1,7 +1,7 @@
 package leetcode.integers;
 
 
-// Link https://leetcode.com/problems/single-number/
+// Link: https://leetcode.com/problems/single-number/
 public class SingleNumber {
 
     public static void main(String[] args) {
